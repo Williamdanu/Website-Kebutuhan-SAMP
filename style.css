@@ -1,8 +1,5 @@
 body {
-  background-image: url(../img/bg.jpg);
-  background-size: cover;
-  background-repeat: no-repeat;
-  background-attachment: fixed;
+  background-color: #343a40;
 }
 main {
 	width: 100%;
@@ -12,7 +9,7 @@ a {
 	text-decoration: none;
 }
 body .bg-success {
-    background-color: #9cca67t;
+    background-color: #343a40;
 }
 .profile img {
     width: 100px;
